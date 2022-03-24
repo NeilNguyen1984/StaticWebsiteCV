@@ -1,0 +1,2 @@
+# StaticWebsiteCV
+Static Website Assignment
